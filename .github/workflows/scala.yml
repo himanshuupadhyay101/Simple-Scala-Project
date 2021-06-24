@@ -9,7 +9,7 @@ on:
   push:
     branches: 
       - master
-     # - githubaction
+      - githubaction
   pull_request:
     branches: 
       - master
